@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/main_view"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:background="@color/white"
+    android:orientation="vertical"
+    android:padding="@dimen/_5sdp">
+
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Sort By"
+        android:textSize="@dimen/_12sdp"
+        android:gravity="center"
+        android:layout_margin="@dimen/_8sdp"
+        android:textColor="@color/blackTextColor"/>
+
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/_1sdp"
+        android:background="@color/blackTextColor"/>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Total Sales"
+        android:id="@+id/tvTotalSales"
+        android:textSize="@dimen/_12sdp"
+        android:gravity="center"
+        android:layout_margin="@dimen/_8sdp"
+        android:textColor="@color/colorPrimary"/>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Add To Cart"
+        android:id="@+id/tvAddToCart"
+        android:textSize="@dimen/_12sdp"
+        android:gravity="center"
+        android:layout_margin="@dimen/_8sdp"
+        android:textColor="@color/colorPrimary"/>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Download"
+        android:id="@+id/tvDownload"
+        android:textSize="@dimen/_12sdp"
+        android:gravity="center"
+        android:layout_margin="@dimen/_8sdp"
+        android:textColor="@color/colorPrimary"/>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="User Sessions"
+        android:id="@+id/tvUserSesions"
+        android:textSize="@dimen/_12sdp"
+        android:gravity="center"
+        android:layout_margin="@dimen/_8sdp"
+        android:textColor="@color/colorPrimary"/>
+
+
+</LinearLayout>

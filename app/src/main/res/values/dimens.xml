@@ -1,0 +1,9 @@
+<resources>
+    <dimen name="view_margin">@dimen/_10sdp</dimen>
+    <dimen name="medium_padding">@dimen/_5sdp</dimen>
+    <dimen name="image_height">@dimen/_80sdp</dimen>
+    <dimen name="image_width">@dimen/_80sdp</dimen>
+    <dimen name="medium_radius">@dimen/_5sdp</dimen>
+    <dimen name="text_size_regular">@dimen/_12sdp</dimen>
+    <dimen name="text_size_small">@dimen/_10sdp</dimen>
+</resources>

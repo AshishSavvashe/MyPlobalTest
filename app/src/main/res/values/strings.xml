@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="no_internet">No Internet Available</string>
+    <string name="api_error">Api Error Occurred</string>
+    <string name="comany_name">Store Name:</string>
+    <string name="totalsell">Total Sales:</string>
+    <string name="view_more">View Details</string>
+
+    <string name="str_newest_first">Newest First</string>
+    <string name="str_oldest_first">Oldest First</string>
+    <string name="str_popularity">Popularity</string>
+    <string name="str_a_to_z">A - Z</string>
+    <string name="str_z_to_A">Z - A</string>
+</resources>
